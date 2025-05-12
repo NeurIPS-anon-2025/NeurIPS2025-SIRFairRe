@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (you’ll be downloading them manually)
+data/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python virtual environment
+venv/
+env/
+
+# Notebook metadata noise (optional to exclude diffs)
+*.nbconvert.ipynb
